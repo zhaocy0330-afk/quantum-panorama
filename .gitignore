@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit runtime
+.streamlit/secrets.toml
+
+# Database and generated files
+*.sqlite
+*.sqlite3
+*.db
+reports/output/
+outputs/
+temp/
+tmp/
+
+# Local runtime artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.bak

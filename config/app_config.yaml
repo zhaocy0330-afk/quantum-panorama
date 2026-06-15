@@ -1,0 +1,17 @@
+app:
+  name: Quantum Panorama
+  description: 量子行业自动行研与投研数据库工作台
+  entrypoint: app.py
+  streamlit_port: 8501
+
+database:
+  legacy_db_path: data/quantum_panorama.sqlite3
+  research_db_path: data/quantum_research.db
+
+reports:
+  output_dir: reports/output
+
+ai:
+  provider: openai
+  default_model: gpt-4.1-mini
+  api_key_env: OPENAI_API_KEY

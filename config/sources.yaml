@@ -1,0 +1,32 @@
+default_sources:
+  - name: arXiv Quantum Physics RSS
+    source_type: rss
+    url: https://export.arxiv.org/rss/quant-ph
+    keywords: quantum,qubit,ion trap,superconducting,QKD,quantum sensing
+    category_hint: 论文进展
+    enabled: true
+    crawl_interval_hours: 24
+
+  - name: Nature Quantum Information
+    source_type: web_list
+    url: https://www.nature.com/npjqi/
+    keywords: quantum,qubit,QKD,sensing,materials
+    category_hint: 论文进展
+    enabled: true
+    crawl_interval_hours: 48
+
+  - name: IBM Quantum Blog
+    source_type: web_list
+    url: https://www.ibm.com/quantum/blog
+    keywords: quantum computing,qubit,roadmap,error correction
+    category_hint: 公司动态
+    enabled: true
+    crawl_interval_hours: 24
+
+  - name: IonQ News
+    source_type: web_list
+    url: https://ionq.com/news
+    keywords: IonQ,quantum computing,trapped ion,partnership,customer
+    category_hint: 公司动态
+    enabled: true
+    crawl_interval_hours: 24

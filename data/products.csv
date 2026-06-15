@@ -1,0 +1,4 @@
+﻿id,organization_id,product_name,product_type,market_segment,tech_routes,maturity,application_scenario,target_customers,delivery_status,revenue_status
+1,6,离子阱量子计算云平台,量子计算云平台,量子计算,离子阱,工程样机,科研和教育,高校;科研院所,试用,早期收入
+2,7,QKD 城域安全网络方案,量子通信系统,量子通信,QKD,小批量交付,政企安全通信,运营商;政务;金融,示范项目,项目收入
+3,8,量子磁力仪,量子精密测量设备,量子精密测量,NV色心,小批量交付,电网和工业检测,电网;工业检测客户,示范交付,增长初期

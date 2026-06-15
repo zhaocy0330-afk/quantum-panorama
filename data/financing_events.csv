@@ -1,0 +1,4 @@
+﻿id,organization_id,round,amount,currency,financing_date,investors,valuation,use_of_funds,source,credibility
+1,6,A轮,1.2亿元,CNY,2025-06-18,湾区科创基金;高校成果转化基金,10-20亿元,整机工程化和量子云平台,示例数据,中
+2,7,B轮,3亿元,CNY,2024-11-10,国资平台;通信产业基金,20-30亿元,城域网络交付和安全平台,示例数据,中
+3,8,Pre-A轮,5000万元,CNY,2025-03-30,先进制造基金,5-10亿元,产品小型化和客户示范,示例数据,中

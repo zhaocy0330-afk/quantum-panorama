@@ -1,0 +1,4 @@
+﻿id,title,patent_number,applicants,application_date,grant_status,market_segment,tech_routes,abstract,patent_type,country,related_organizations,related_experts
+1,一种离子阱芯片封装结构,CN000001,云阱量子计算有限公司,2025-03-01,审中,量子计算,离子阱,用于提高离子阱芯片封装稳定性。,发明,中国,云阱量子计算有限公司,陈启明
+2,QKD 密钥管理系统,CN000002,安密量子通信系统有限公司,2024-09-01,授权,量子通信,QKD,一种密钥管理和网络调度方法。,发明,中国,安密量子通信系统有限公司,王若安
+3,便携式量子磁力仪探头,CN000003,星图量子测量科技有限公司,2025-06-22,审中,量子精密测量,NV色心,面向现场检测的传感探头结构。,发明,中国,星图量子测量科技有限公司,赵清原

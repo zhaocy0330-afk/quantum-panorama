@@ -1,0 +1,4 @@
+﻿id,title,authors,institutions,publish_date,source,abstract,keywords,market_segment,tech_routes,link,industrial_relevance
+1,Scalable trapped-ion quantum processor engineering,A. Chen et al.,Donghu Institute,2025-09-10,arXiv,A modular trapped-ion engineering study.,ion trap;scaling;control,量子计算,离子阱,https://arxiv.org/,提示模块化和自动化运维方向。
+2,Neutral atom arrays for programmable simulation,L. Smith et al.,Example Lab,2025-12-02,Nature,Large neutral atom arrays.,neutral atom;Rydberg,量子计算,中性原子,https://example.com,显示量子模拟潜力。
+3,Field deployment of quantum magnetic sensing,Q. Zhao et al.,Sensing Institute,2026-02-14,IEEE,NV magnetometer field trial.,NV center;magnetometer,量子精密测量,NV色心,https://example.com,贴近工业检测场景。
